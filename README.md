@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yedoong&show_icons=true&theme=default)
-<a href="[https://www.instagram.com/ye1on_k/" target="_blank"><img src="https://img.shields.io/badge/[instagram]-[E4405F]?style=flat-square&logo=[Instagram)]&logoColor=white"/></a>
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hf1_00/)](https://www.instagram.com/ye1on_k/)
 
 
 <!---
