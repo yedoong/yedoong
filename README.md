@@ -1,6 +1,5 @@
 <div align="center">
-태그 형식
-<img src="https://mblogthumb-phinf.pstatic.net/MjAxODA0MDVfNDkg/MDAxNTIyODU5NTM2MDQ0.QmjYHPDPdaooLJwmrv53qMr_h3G5YnGNvzn7ZQ5VfQsg.fp7hHs7tz5EH0jLwxWXmmZPIE0TYLantCVsQ7pRvAn0g.GIF.kma9501/IMG_5603.GIF?type=w800"  width="700" height="370">
+<img src="https://mblogthumb-phinf.pstatic.net/MjAxODA0MDVfNDkg/MDAxNTIyODU5NTM2MDQ0.QmjYHPDPdaooLJwmrv53qMr_h3G5YnGNvzn7ZQ5VfQsg.fp7hHs7tz5EH0jLwxWXmmZPIE0TYLantCVsQ7pRvAn0g.GIF.kma9501/IMG_5603.GIF?type=w800"  width="800" height="300">
 <!---
 yedoong/yedoong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
