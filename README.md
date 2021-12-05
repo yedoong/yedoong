@@ -1,10 +1,10 @@
 
 <img src="https://mblogthumb-phinf.pstatic.net/MjAxODA0MDVfNDkg/MDAxNTIyODU5NTM2MDQ0.QmjYHPDPdaooLJwmrv53qMr_h3G5YnGNvzn7ZQ5VfQsg.fp7hHs7tz5EH0jLwxWXmmZPIE0TYLantCVsQ7pRvAn0g.GIF.kma9501/IMG_5603.GIF?type=w800"  width="750" height="300">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=예원&&show_icons=true&theme=default)]
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yedoong)](https://github.com/anuraghazra/github-readme-stats)
  
  
   ## Contact:heart: <br/>
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hf1_00/)](https://www.instagram.com/ye1on_k/)<br/>
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ye1on_k/)](https://www.instagram.com/ye1on_k/)<br/>
    ## Skills:innocent:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
