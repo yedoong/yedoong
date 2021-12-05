@@ -5,7 +5,7 @@ yedoong/yedoong is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yedoong)](https://github.com/yedoong/yedoong/edit/main/README.md) <br/>
+ <br/>
   ## Contact:heart: <br/>
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hf1_00/)](https://www.instagram.com/ye1on_k/)<br/>
    ## Skills:innocent:
@@ -17,5 +17,7 @@ You can click the Preview link to take a look at your changes.
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) <br/>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yedoong)](https://github.com/yedoong/yedoong/edit/main/README.md)
 
 </div>
