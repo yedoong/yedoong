@@ -1,5 +1,6 @@
+
 <img src="https://mblogthumb-phinf.pstatic.net/MjAxODA0MDVfNDkg/MDAxNTIyODU5NTM2MDQ0.QmjYHPDPdaooLJwmrv53qMr_h3G5YnGNvzn7ZQ5VfQsg.fp7hHs7tz5EH0jLwxWXmmZPIE0TYLantCVsQ7pRvAn0g.GIF.kma9501/IMG_5603.GIF?type=w800"  width="750" height="300">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yedoong)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
  
@@ -16,6 +17,6 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) <br/>
   
- 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yedoong)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
 </div>
