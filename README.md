@@ -1,6 +1,6 @@
 
 <img src="https://mblogthumb-phinf.pstatic.net/MjAxODA0MDVfNDkg/MDAxNTIyODU5NTM2MDQ0.QmjYHPDPdaooLJwmrv53qMr_h3G5YnGNvzn7ZQ5VfQsg.fp7hHs7tz5EH0jLwxWXmmZPIE0TYLantCVsQ7pRvAn0g.GIF.kma9501/IMG_5603.GIF?type=w800"  width="750" height="300">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/yedoong/yedoong/edit/main/README.md) <br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) <br/>
  
  
   ## Contact:heart: <br/>
